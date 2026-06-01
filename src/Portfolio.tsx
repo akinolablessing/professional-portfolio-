@@ -394,7 +394,7 @@ export default function Portfolio() {
                     </p>
                     <div className="flex flex-wrap justify-center gap-4">
                         <a
-                            href="/Akinyemi_Ayomide_Updated_Resume.pdf"
+                            href="/AKINYEMI_AYOMIDE_CV.pdf"
                             className="bg-cyan-500 hover:bg-cyan-600 px-8 py-4 rounded-lg font-semibold transition transform hover:scale-105 flex items-center gap-2"
                         >
                             <Download size={20} />
